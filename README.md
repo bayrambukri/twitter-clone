@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Firebase
 Küütphanler
 -react-router-dom
 react-toastify
