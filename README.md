@@ -7,4 +7,14 @@ moment
 uuid
 firebase
 tailwind
-# twitter-clone
+
+
+
+
+# twitter-clone-görünümü
+
+
+
+
+https://github.com/user-attachments/assets/8ddf2976-fc12-4e93-9869-3f5f5e621b3f
+
